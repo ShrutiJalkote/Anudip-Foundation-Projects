@@ -120,9 +120,9 @@ public class jdbcProject{
             String name = sc.next();
             System.out.print("Enter new category: ");
             String category = sc.next();
-            System.out.print("Enter new category: ");
+            System.out.print("Enter new price: ");
             Double price = sc.nextDouble();
-            System.out.print("Enter new category: ");
+            System.out.print("Enter new stock: ");
             int stock = sc.nextInt();
             
 
